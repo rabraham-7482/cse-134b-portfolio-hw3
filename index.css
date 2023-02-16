@@ -10,7 +10,7 @@
         font-size: 20px;
     }
 }
-@media screen and (max-width: 1080) and (max-height: 1920px) and (min-width: 768px) and (min-height: 1024px) {
+@media screen and (max-width: 1080px) and (max-height: 1920px) and (min-width: 768px) and (min-height: 1024px) {
     :root{
         --background: #E9F5FB;
         font-size: 25px;
